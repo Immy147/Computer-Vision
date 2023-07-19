@@ -1,2 +1,2 @@
 # Computer-Vision
-This repo contains the implementations for the several Neural networks used in computer vision.
+This Computer Vision Repository is a compilation of cutting-edge computer vision projects and algorithms that have been developed with modern toolkits. Learn about a wide range of uses, from facial recognition to object identification to image segmentation and beyond. Each project comes with extensive instructions and code snippets that may be used to study and implement computer vision in real-world scenarios.
